@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-with-pytest",
+      "title": "Testing Your Code with pytest",
+      "description": "Write automated tests using pytest to verify Python functions, covering assertions, edge cases, and error handling.",
+      "path": "assignments/testing-with-pytest",
+      "dueDate": "2026-06-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
